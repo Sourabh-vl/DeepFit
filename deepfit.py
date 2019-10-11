@@ -12,9 +12,22 @@ class Deepfit(Object):
     def recordVideo(data):
         return self.data
     
-    def tagVideo():
+    def tagVideo(data):
+        return self.data
+    
+    def shapleyVideo(data):
+        return self.data
+    
+    def activityPredict(data):
+        return self.data
+    
+    def recoveryPhase(data):
+        return self.data
+    
+    def pathtorecover(data):
         return self.data
         
-    
+    def toneAnalyser(data):
+        return self.data
         
         
