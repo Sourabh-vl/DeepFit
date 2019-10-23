@@ -5,29 +5,26 @@ Created on Fri Oct 11 14:39:00 2019
 @author: sourabhag
 """
 
-class Deepfit(Object):
-    def __init__(self, data):
-        self.data = data
-        
+class Deepfit:
+    
     def recordVideo(data):
-        return self.data
+        return data
     
     def tagVideo(data):
-        return self.data
+        return data
     
     def shapleyVideo(data):
-        return self.data
+        print("hi")
+        return data
     
     def activityPredict(data):
-        return self.data
+        return data
     
     def recoveryPhase(data):
-        return self.data
+        return data
     
     def pathtorecover(data):
-        return self.data
+        return data
         
     def toneAnalyser(data):
-        return self.data
-        
-        
+        return data
